@@ -70,8 +70,6 @@ class YCCalloutMenuView: UIView,UITableViewDelegate,UITableViewDataSource {
     var minMarginToTop: CGFloat = 16
     /**距离控制器底部的最小边距*/
     var minMarginToBottom: CGFloat = 16
-    
-    
     /**箭头高度*/
     var arrowH: CGFloat = 8.0 {
         didSet{
