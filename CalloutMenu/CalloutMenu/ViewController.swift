@@ -73,6 +73,10 @@ class ViewController: UIViewController,CalloutMenuViewDelegate {
         print(index)
     }
     
+    func separate() {
+        
+    }
+    
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.

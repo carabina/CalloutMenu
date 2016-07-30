@@ -20,6 +20,8 @@ enum ArrowDirection {
 
 /*＊协议*/
 protocol CalloutMenuViewDelegate: class {
+//    .........
+    
     func calloutMenuView(calloutMenuView:YCCalloutMenuView, selectedIndex index:Int, selectedTitle title:String)
 }
 
