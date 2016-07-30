@@ -45,6 +45,7 @@ class ViewController: UIViewController,CalloutMenuViewDelegate {
         callMenuView5.arrowH = 20
         callMenuView5.padding_left = 20
         callMenuView5.padding_right = 50
+        
     }
     
     @IBAction func btn1Click() {
