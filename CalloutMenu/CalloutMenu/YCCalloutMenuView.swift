@@ -58,7 +58,6 @@ class YCCalloutMenuView: UIView,UITableViewDelegate,UITableViewDataSource {
     /**边缘阴影密度，越大越浓密*/
     var shadowDensity: Double = 0.5
     
-    
     //视图安放区域需要的属性
     
     /**距离触发控件的距离*/
